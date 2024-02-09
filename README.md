@@ -1,2 +1,2 @@
 # app.s
-console preview
+console de proyecto
